@@ -1,0 +1,26 @@
+{
+  "name": "benchmark_demo",
+  "version": "1.0.0",
+  "description": "benchmark_demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KayOnline/sattan-nodejs.git"
+  },
+  "keywords": [
+    "benchmark"
+  ],
+  "author": "Kay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KayOnline/sattan-nodejs/issues"
+  },
+  "homepage": "https://github.com/KayOnline/sattan-nodejs",
+  "dependencies": {
+    "benchmark": "^1.0.0",
+    "log4js": "^0.6.22"
+  }
+}
