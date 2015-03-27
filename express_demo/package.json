@@ -1,0 +1,16 @@
+{
+  "name": "express_demo",
+  "version": "1.0.0",
+  "description": "express demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "log4js": "^0.6.22",
+    "moment": "^2.9.0"
+  }
+}
